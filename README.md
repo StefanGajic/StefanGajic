@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Stefan Gajic
+
+  Go / Golang developer based in Europe
+  
+  
 
 <!--
 **StefanGajic/StefanGajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
